@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wgc.PercentLayout.PercentLinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="#000000" >
+    <com.wgc.PercentLayout.PercentRelativeLayout 
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        app:layout_widthPercent="40%w"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:id="@+id/id_rl_title">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tv_back"
+            android:id="@+id/id_tv_back"/>        
+    </com.wgc.PercentLayout.PercentRelativeLayout>
+    <com.wgc.PercentLayout.PercentLinearLayout 
+        android:layout_width="0dp"
+        app:layout_widthPercent="60%w"
+        android:layout_height="wrap_content"      
+        android:id="@+id/ll"
+        android:orientation="horizontal">
+        
+    </com.wgc.PercentLayout.PercentLinearLayout>
+
+</com.wgc.PercentLayout.PercentLinearLayout>

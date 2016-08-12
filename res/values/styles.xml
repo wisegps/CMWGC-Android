@@ -1,0 +1,8 @@
+<resources>
+
+   <style name="AppTheme" parent="android:Theme.Light" />
+	<style name="information_text">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#c1c1c1</item>
+    </style>
+</resources>

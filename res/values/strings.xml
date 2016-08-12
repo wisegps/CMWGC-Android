@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CMWGC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="Note">提示</string>
+    <string name="getData">数据获取中......</string>
+     <string name="setData">数据提交中......</string>
+      <string name="weiwang">yun.autogps.cn</string>
+      <string name="strPoint">小圆点</string>
+      <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+<string name="update_url">http://yun.autogps.cn/api/upgrade/qqw_app?auth_code=bba2204bcd4c1f87a19ef792f1f68404</string>
+<!-- 科大讯飞语音 -->
+ <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_title_tts_speed">语速</string>
+    <string name="preference_default_tts_speed">50</string>
+    <string name="preference_dialog_title_tts_speed">选择语速</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+    <string name="preference_title_tts_volume">音量</string>
+    <string name="preference_default_tts_volume">50</string>
+    <string name="preference_dialog_title_tts_volume">选择音量</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+    <string name="preference_title_tts_pitch">语调</string>
+    <string name="preference_default_tts_pitch">50</string>
+    <string name="app_id">55f0f73a</string>
+    <string name="intell_bd_title">智能播报</string>
+
+</resources>
